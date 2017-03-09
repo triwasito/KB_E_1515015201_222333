@@ -1,0 +1,53 @@
+    1  ls
+    2  ls
+    3  git config --global user.name "Tri Wasito"
+    4  git config --global user.email "triwasito23@gmail.com"
+    5  git config --list
+    6  git init
+    7  git add README.md
+    8  git add README.md
+    9  ls
+   10  touch readme.md
+   11  git add README.md
+   12  git commit -m "semangat"
+   13  git remote add origin https://github.com/triwasito/belajar-git.git
+   14  git push -u origin master
+   15  git remote -v
+   16  git add .
+   17  git status
+   18  git commit -m "semangat"
+   19  git push origin master
+   20  history > tri.txt
+   21  ls
+   22  git config --list
+   23  git status
+   24  git status
+   25  cd d:
+   26  ls
+   27  cd belajar git
+   28  cd d/belajar git
+   29  cd d/belajar git:
+   30  cd belajar git
+   31  git status
+   32  touch readme.md
+   33  git status
+   34  git add.
+   35  git add .
+   36  git status
+   37  touch index.html
+   38  git status
+   39  git commit -m "semangat "
+   40  git push origin master
+   41  git push origin master
+   42  git status
+   43  history > pelatihan2.txt
+   44  git init
+   45  git remote add origin https://github.com/triwasito/VISUAL_E_1515015201_222333.git
+   46  git remote -v
+   47  git status
+   48  git add .
+   49  git status
+   50  git commit -m "posttest 1" 
+   51  git push
+   52  git push -u origin master
+   53  history >.txt
